@@ -31,3 +31,6 @@ It generates blog/article content, formats it in Markdown, and saves it into str
 - **Markdown** – Standard for saving and formatting articles
 
 ---
+
+## N8N Workflow
+<img width="1693" height="667" alt="Screenshot 2025-08-20 at 5 39 03 AM" src="https://github.com/user-attachments/assets/9deb002a-4d7a-4e2d-b561-7b2e02708e99" />
