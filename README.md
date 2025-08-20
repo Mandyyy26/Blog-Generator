@@ -5,6 +5,10 @@ It generates blog/article content, formats it in Markdown, and saves it into str
 
 ---
 
+## LIVE
+ https://blogify-mandeepmalik.netlify.app
+
+
 ## 🚀 Features
 
 - 🔗 **Webhook Integration** – Receive input (title, slug, prompts) via webhook.
